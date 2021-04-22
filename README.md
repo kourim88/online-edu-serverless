@@ -59,6 +59,11 @@ python manage.py runserver
 ```
 
 # zappa环境的搭建，直接完成lambda的部署
+```
+zappa deploy dev
+zappa update
+zappa tail
+```
 
 
 
