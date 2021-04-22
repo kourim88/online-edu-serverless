@@ -58,6 +58,7 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
+# zappa环境的搭建，直接完成lambda的部署
 
 
 
