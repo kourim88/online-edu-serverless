@@ -14,7 +14,7 @@ import os
 import environ
 
 env = environ.Env()
-env.read_env('config/.env')
+env.read_env('conf/.env')
 
 
 
