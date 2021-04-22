@@ -58,11 +58,6 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
-很高兴我的项目代码或许对你有帮助，请我吃包辣条或喝瓶可乐吧!
-
-微信打赏:
-
-![mark](http://myphoto.mtianyan.cn/blog/180302/i52eHgilfD.png?imageslim)
 
 
 
