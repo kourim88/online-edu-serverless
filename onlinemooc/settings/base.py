@@ -92,6 +92,7 @@ except KeyError:
     UseDocker = True
 
 # if UseDocker:
+    # local database
 #     DATABASES = {
 #         'default': {
 #             'ENGINE': 'django.db.backends.mysql',
